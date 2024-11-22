@@ -1,52 +1,52 @@
-# Prerequisites
-*.d
+# Rider spezifische Dateien und Ordner
+.idea/
+.idea_modules/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Build-Verzeichnis
+/bin/
+/obj/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# User-spezifische Dateien
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Precompiled Headers
-*.gch
-*.pch
+# Windows spezifische Dateien
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# OSX spezifische Dateien
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Linux spezifische Dateien
+*~
+.nfs
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Paketmanager
+**/node_modules/
+**/bower_components/
+**/jspm_packages/
+**/typings/
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Logs und Temporäre Dateien
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Weitere Rider spezifische Dateien
+.idea/
+.idea_modules/
+.idea_dotnet
+.idea_dotfiles
+.idea_dive_version
+.idea_deployment.xml
+.idea_libraries/
