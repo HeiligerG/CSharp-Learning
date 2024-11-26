@@ -1,0 +1,40 @@
+classDiagram
+    Animal <|-- Dog
+    Animal <|-- Cat
+    PetShop "1" -- "*" Animal
+
+    class Animal {
+        -name: string
+        -age: int
+        -weight: double
+        +getName(): string
+        +getAge(): int
+        +getWeight(): double
+        +Animal(string name, int age, double weight)
+        +MakeSound()* string
+        +GetInfo() string
+    }
+
+    class Dog {
+        -breed: string
+        +getBreed(): string
+        +Dog(string name, int age, double weight, string breed)
+        +MakeSound() string
+        +GetInfo() string
+    }
+
+    class Cat {
+        -isIndoor: bool
+        +getIsIndoor(): bool
+        +Cat(string name, int age, double weight, bool isIndoor)
+        +MakeSound() string
+        +GetInfo() string
+    }
+
+    class PetShop {
+        -animals: List~Animal~
+        +AddAnimal(Animal animal)
+        +RemoveAnimal(Animal animal)
+        +GetAllAnimals() List~Animal~
+        +GetAnimalsByType(Type type) List~Animal~
+    }
