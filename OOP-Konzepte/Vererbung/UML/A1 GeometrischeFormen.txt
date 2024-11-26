@@ -1,0 +1,29 @@
+classDiagram
+    Shape <|-- Circle
+    Shape <|-- Rectangle
+    
+    class Shape {
+        -color: string
+        +Color: string
+        +Shape(color: string)
+        +GetArea(): double
+        +GetPerimeter(): double
+    }
+
+    class Circle {
+        -radius: double
+        +Radius: double
+        +Circle(color: string, radius: double)
+        +GetArea(): double
+        +GetPerimeter(): double
+    }
+
+    class Rectangle {
+        -width: double
+        -height: double
+        +Width: double
+        +Height: double
+        +Rectangle(color: string, width: double, height: double)
+        +GetArea(): double
+        +GetPerimeter(): double
+    }

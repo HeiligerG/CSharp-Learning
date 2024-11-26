@@ -1,8 +1,45 @@
 {
   "version": 2,
-  "dgSpecHash": "iU++ZLW7fC0=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\gggig\\OneDrive\\Desktop\\BBZW Sursee\\CSharp-Learning\\OOP-Konzepte\\Kaplesung\\A1 BankAccount\\A1 BankAccount\\A1 BankAccount.csproj",
+  "dgSpecHash": "0bjyounUowk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\OOP-Konzepte\\Kaplesung\\A1 BankAccount\\A1 BankAccount\\A1 BankAccount.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.NETCore.App.Ref (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.WindowsDesktop.App.Ref (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.AspNetCore.App.Ref (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "\"Microsoft.NETCore.App.Host.win-x64 (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
