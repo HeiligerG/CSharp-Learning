@@ -13,6 +13,7 @@
         "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\OOP-Konzepte\\Kaplesung\\A1 BankAccount\\A1 BankAccount\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\gianl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -34,8 +35,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {

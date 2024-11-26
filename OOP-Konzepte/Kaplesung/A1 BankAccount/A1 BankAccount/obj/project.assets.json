@@ -19,6 +19,7 @@
       "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\OOP-Konzepte\\Kaplesung\\A1 BankAccount\\A1 BankAccount\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\gianl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
@@ -40,8 +41,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -88,7 +88,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "\"Microsoft.NETCore.App.Ref (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 8.0.11)' for 'net8.0'.",
       "libraryId": "Microsoft.NETCore.App.Ref",
       "targetGraphs": [
         "net8.0"
@@ -97,7 +97,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "\"Microsoft.WindowsDesktop.App.Ref (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 8.0.11)' for 'net8.0'.",
       "libraryId": "Microsoft.WindowsDesktop.App.Ref",
       "targetGraphs": [
         "net8.0"
@@ -106,7 +106,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "\"Microsoft.AspNetCore.App.Ref (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 8.0.11)' for 'net8.0'.",
       "libraryId": "Microsoft.AspNetCore.App.Ref",
       "targetGraphs": [
         "net8.0"
@@ -115,7 +115,7 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "\"Microsoft.NETCore.App.Host.win-x64 (= 8.0.11)\" kann für \"net8.0\" nicht aufgelöst werden.",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 8.0.11)' for 'net8.0'.",
       "libraryId": "Microsoft.NETCore.App.Host.win-x64",
       "targetGraphs": [
         "net8.0"
