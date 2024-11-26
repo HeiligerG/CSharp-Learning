@@ -100,6 +100,10 @@ Nach erfolgreicher Implementierung können folgende Funktionen hinzugefügt werd
 
 Falls Sie Fragen oder Probleme bei der Implementierung haben, stehe ich gerne zur Verfügung! 😊
 
+- **Autor:** [HolyG](https://github.com/heiligerg)
+- **E-Mail:** devholyg@gmail.com 
+
+
 --- 
 
 Viel Spaß bei der Umsetzung!
