@@ -1,0 +1,15 @@
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\bin\Debug\net8.0\A1 BankAccount.exe
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\bin\Debug\net8.0\A1 BankAccount.deps.json
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\bin\Debug\net8.0\A1 BankAccount.runtimeconfig.json
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\bin\Debug\net8.0\A1 BankAccount.dll
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\bin\Debug\net8.0\A1 BankAccount.pdb
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.AssemblyInfoInputs.cache
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.AssemblyInfo.cs
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.sourcelink.json
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.dll
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\refint\A1 BankAccount.dll
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.pdb
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\A1 BankAccount.genruntimeconfig.cache
+C:\Users\gggig\OneDrive\Desktop\BBZW Sursee\CSharp-Learning\OOP-Konzepte\Kaplesung\A1 BankAccount\A1 BankAccount\obj\Debug\net8.0\ref\A1 BankAccount.dll

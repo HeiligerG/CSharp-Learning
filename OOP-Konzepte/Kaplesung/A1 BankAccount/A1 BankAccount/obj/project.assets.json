@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gggig\\OneDrive\\Desktop\\BBZW Sursee\\CSharp-Learning\\OOP-Konzepte\\Vererbung-Kapselung\\A1 Vererbung-Kapselung\\A1 Vererbung-Kapselung\\A1 Vererbung-Kapselung.csproj",
-      "projectName": "A1 Vererbung-Kapselung",
-      "projectPath": "C:\\Users\\gggig\\OneDrive\\Desktop\\BBZW Sursee\\CSharp-Learning\\OOP-Konzepte\\Vererbung-Kapselung\\A1 Vererbung-Kapselung\\A1 Vererbung-Kapselung\\A1 Vererbung-Kapselung.csproj",
+      "projectUniqueName": "C:\\Users\\gggig\\OneDrive\\Desktop\\BBZW Sursee\\CSharp-Learning\\OOP-Konzepte\\Kaplesung\\A1 BankAccount\\A1 BankAccount\\A1 BankAccount.csproj",
+      "projectName": "A1 BankAccount",
+      "projectPath": "C:\\Users\\gggig\\OneDrive\\Desktop\\BBZW Sursee\\CSharp-Learning\\OOP-Konzepte\\Kaplesung\\A1 BankAccount\\A1 BankAccount\\A1 BankAccount.csproj",
       "packagesPath": "C:\\Users\\gggig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gggig\\OneDrive\\Desktop\\BBZW Sursee\\CSharp-Learning\\OOP-Konzepte\\Vererbung-Kapselung\\A1 Vererbung-Kapselung\\A1 Vererbung-Kapselung\\obj\\",
+      "outputPath": "C:\\Users\\gggig\\OneDrive\\Desktop\\BBZW Sursee\\CSharp-Learning\\OOP-Konzepte\\Kaplesung\\A1 BankAccount\\A1 BankAccount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gggig\\AppData\\Roaming\\NuGet\\NuGet.Config"

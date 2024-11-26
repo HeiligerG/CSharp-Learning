@@ -1,0 +1,12 @@
+classDiagram
+    class BankAccount {
+        -accountNumber: string
+        -balance: decimal
+        -owner: string
+        +AccountNumber: string
+        +Balance: decimal
+        +Owner: string
+        +BankAccount(string accountNumber, string owner)
+        +Deposit(decimal amount): void
+        +Withdraw(decimal amount): bool
+    }
