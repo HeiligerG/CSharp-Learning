@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
+        "projectName": "LA_320_4212_Schergen",
+        "projectPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
+        "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\gianl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

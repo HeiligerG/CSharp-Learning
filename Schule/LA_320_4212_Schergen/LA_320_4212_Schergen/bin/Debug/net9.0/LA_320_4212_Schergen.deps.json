@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LA_320_4212_Schergen/1.0.0": {
+        "runtime": {
+          "LA_320_4212_Schergen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LA_320_4212_Schergen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

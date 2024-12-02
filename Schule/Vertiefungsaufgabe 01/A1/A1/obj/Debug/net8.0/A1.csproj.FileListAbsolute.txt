@@ -1,0 +1,5 @@
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\Vertiefungsaufgabe 01\A1\A1\obj\Debug\net8.0\A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\Vertiefungsaufgabe 01\A1\A1\obj\Debug\net8.0\A1.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\Vertiefungsaufgabe 01\A1\A1\obj\Debug\net8.0\A1.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\Vertiefungsaufgabe 01\A1\A1\obj\Debug\net8.0\A1.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\Vertiefungsaufgabe 01\A1\A1\obj\Debug\net8.0\A1.sourcelink.json

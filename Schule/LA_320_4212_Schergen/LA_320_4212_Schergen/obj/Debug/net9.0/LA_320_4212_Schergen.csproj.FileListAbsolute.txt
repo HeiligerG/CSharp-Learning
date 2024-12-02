@@ -1,0 +1,15 @@
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.sourcelink.json
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\bin\Debug\net9.0\LA_320_4212_Schergen.exe
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\bin\Debug\net9.0\LA_320_4212_Schergen.deps.json
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\bin\Debug\net9.0\LA_320_4212_Schergen.runtimeconfig.json
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\bin\Debug\net9.0\LA_320_4212_Schergen.dll
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\bin\Debug\net9.0\LA_320_4212_Schergen.pdb
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.dll
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\refint\LA_320_4212_Schergen.dll
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.pdb
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\LA_320_4212_Schergen.genruntimeconfig.cache
+C:\Users\gianl\OneDrive\Desktop\CSharp-Learning\Schule\LA_320_4212_Schergen\LA_320_4212_Schergen\obj\Debug\net9.0\ref\LA_320_4212_Schergen.dll
