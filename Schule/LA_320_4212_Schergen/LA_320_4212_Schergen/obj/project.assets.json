@@ -8,24 +8,27 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gianl\\.nuget\\packages\\": {}
+    "C:\\Users\\ÜK-G7\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
+      "projectUniqueName": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
       "projectName": "LA_320_4212_Schergen",
-      "projectPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
-      "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\obj\\",
+      "projectPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
+      "packagesPath": "C:\\Users\\ÜK-G7\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\gianl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ÜK-G7\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
@@ -62,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\ÜK-G7\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
