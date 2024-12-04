@@ -10,8 +10,14 @@ internal abstract class Fahrzeug
         this.Color = color;
         this.Brand = brand;
     }
-    
-    internal virtual void printInfo() { }
 
-    internal virtual void Move() { }
+    internal virtual void printInfo()
+    {
+        Console.WriteLine($"Dein Auto ist {Color} und ist von der Marke {Brand}");
+    }
+
+    internal virtual void Move()
+    {
+        Console.WriteLine($"Dein {Brand} ist am Fahren!");
+    }
 }
