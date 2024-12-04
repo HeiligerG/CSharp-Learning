@@ -1,15 +1,11 @@
 namespace A00_Fahrzeuge;
 
-public class Mountainbike
+internal class Mountainbike : Fahrzeug
 {
-    private string Color { get; }
-    private string Brand { get; }
     private int AnzahlRaeder { get; }
 
-    internal Mountainbike(string color, string brand, int anzahlRaeder)
+    internal Mountainbike(int anzahlRaeder, string color, string brand) : base(color, brand)
     {
-        this.Color = color;
-        this.Brand = brand;
         this.AnzahlRaeder = anzahlRaeder;
     }
 

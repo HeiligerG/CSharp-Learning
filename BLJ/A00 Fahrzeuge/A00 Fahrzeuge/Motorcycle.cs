@@ -1,19 +1,15 @@
 namespace A00_Fahrzeuge;
 
-class Motorcycle
+class Motorcycle : Fahrzeug
 {
-    private string Color { get; }
-    private string Brand { get; }
     private string Fahrer { get; }
 
-    internal Motorcycle(string color, string brand, string fahrer)
+    internal Motorcycle(string fahrer, string color, string brand) : base(color, brand)
     {
-        this.Color = color;
-        this.Brand = brand;
         this.Fahrer = fahrer;
     }
 
-    internal void printInfo()
+    internal override void printInfo()
     {
         Console.WriteLine($"Dein Motorrad ist {Color} und ist von der Marke {Brand} und er gehört {Fahrer}");;
     }

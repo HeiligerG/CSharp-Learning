@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Car car = new Car("Blau", "Porsche");
-        Motorcycle motorcycle = new Motorcycle("Rot", "Lambo", "MonatnaBlack");
-        Mountainbike mountainbike = new Mountainbike("Violet", "Peugot", 2);
+        Car car = new Car("Violet", "VW");
+        Motorcycle motorcycle = new Motorcycle("MontanaBlack", "Rot", "Lambo");
+        Mountainbike mountainbike = new Mountainbike(2, "Rot", "Porsche");
         
         car.printInfo();
         motorcycle.printInfo();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A00 Fahrzeuge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee2f231908cac68df9b15d1319a50aed2d5e721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe270f250ea717e2b0f7287398c887f798e41838")]
 [assembly: System.Reflection.AssemblyProductAttribute("A00 Fahrzeuge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A00 Fahrzeuge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

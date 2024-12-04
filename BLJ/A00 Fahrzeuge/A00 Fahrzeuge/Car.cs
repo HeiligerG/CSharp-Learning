@@ -1,22 +1,16 @@
 namespace A00_Fahrzeuge;
 
-class Car
+internal class Car : Fahrzeug
 {
-    private string Color { get; }
-    private string Brand { get; }
 
-    internal Car(string color, string brand)
+    internal Car(string color, string brand) : base(color, brand) { }
+
+    internal override void printInfo()
     {
-        this.Color = color;
-        this.Brand = brand;
+        Console.WriteLine($"Dein Auto ist {Color} und ist von der Marke {Brand}");
     }
 
-    internal void printInfo()
-    {
-        Console.WriteLine($"Dein Auto ist {Color} und ist von der Marke {Brand}");;
-    }
-
-    internal void Move()
+    internal override void Move()
     {
         Console.WriteLine($"Dein {Brand} ist am Fahren!");
     }
