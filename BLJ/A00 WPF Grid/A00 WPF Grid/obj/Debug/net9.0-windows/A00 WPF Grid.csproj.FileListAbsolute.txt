@@ -1,0 +1,21 @@
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\bin\Debug\net9.0-windows\A00 WPF Grid.exe
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\bin\Debug\net9.0-windows\A00 WPF Grid.deps.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\bin\Debug\net9.0-windows\A00 WPF Grid.runtimeconfig.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\bin\Debug\net9.0-windows\A00 WPF Grid.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\bin\Debug\net9.0-windows\A00 WPF Grid.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid_MarkupCompile.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid_MarkupCompile.lref
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.g.resources
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.AssemblyInfo.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.sourcelink.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\refint\A00 WPF Grid.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\A00 WPF Grid.genruntimeconfig.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF Grid\A00 WPF Grid\obj\Debug\net9.0-windows\ref\A00 WPF Grid.dll

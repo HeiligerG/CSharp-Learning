@@ -1,0 +1,56 @@
+WPF:
+
+- Windows presentation Foundation --> Desktop Anwendungen
+--Forms, Buttons, Animationen
+--XAML nicht Console --> Wie HTML
+
+- Warum nicht ASP.NET? --> Browser Limited / Front-end Focus / Technology Stack Concerns
+- Warum nicht MAUI? --> Technologie Age (Young) less librarys / Crossplatform Compleyity / WPF is a stepping stone
+- Warum nicht WinForms? --> Technologie Age (Old) less support / Limited Power / Limited Potential
+
+- Warum WPF? --> Low Barrier to Entry
+		- Works out of the Box in VS
+		- Easy to understand markup(XAML)
+	     --> Immediatly Powerfull UIs
+		- Built in Controls
+		- Fully Customizable
+	     --> Master .NET Quickly
+		- Reduce Overhed
+		- 3rd Party Software
+	     --> Skills Translate Well
+		- .NET is Everywhere
+		- XAML is recommended in MAUI
+   	     --> Excellent Career Potential
+		- WPF / WinForms / C# - .NET / ASP.NET
+- Get started:
+-- XAML file ist für Buttons, Style usw.
+-- cs file ist für die Interaktionen
+-- Toolbox ist für Komponenten
+-- Ist wie HTML nur das das CSS integriert ist in HTML (XAML)
+-- Not DRAG AND DROP sondern selbst Programieren
+-- All to disply in the <Grid> section
+
+-- Alignment ist responsiv also center = center in allen Bildschirmgrössen, so sollte es auch sein (Responsive)
+
+- Code Behind:
+-- Databinding --> Später im Turtorial
+-- Name accesing --> Anwendung von Code über Namensgebung
+
+- Window Content Info
+-- Only one content bzw. not 2 x <Text … />
+--- use of <Grid> or other container
+-- Grids layout: <TextBlock Text="Hello World" /> --Same as--> <TextBlock>
+								   <TextBlock.Text>
+									Hello World
+							           </TextBlock.Text>
+							        </TextBlock>
+--- Rows and Colums (0-...)
+--- das zweite definierte Objekt überschreibt das erste.
+
+Workflow:
+1. Arbeitsauftrag verstehen
+2. Grid Layout erstellen
+3. Datei Struktur zurecht legen (Ordnerstruktur) ---> Modularität
+4. Visuel designe
+5. C# behind de code
+
