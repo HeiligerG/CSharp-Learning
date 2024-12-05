@@ -16,8 +16,25 @@ namespace A00_WPF;
 /// </summary>
 public partial class MainWindow : Window
 {
+    private bool display = false;
     public MainWindow()
     {
         InitializeComponent();
+    }
+
+    private void toggleHWbtn_OnClick(object sender, RoutedEventArgs e)
+    {
+        if (display)
+        {
+            hellotxt.Text = "Bye World!";
+            toggleHWbtn.Content = "Say Hallo!";
+        }
+        else
+        {
+            hellotxt.Text = "Hello World!";
+            toggleHWbtn.Content = "Say Bye!";
+
+        }
+        display = !display;
     }
 }

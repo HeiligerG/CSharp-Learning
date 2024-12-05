@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="ButtonOK" Width="80" Height="30"></Button>
+        <TextBlock Name="hellotxt" FontSize="50"></TextBlock>
+        <Button Name="toggleHWbtn" Content="ButtonOK" Width="80" Height="30" Click="toggleHWbtn_OnClick"></Button>
     </Grid>
 </Window>

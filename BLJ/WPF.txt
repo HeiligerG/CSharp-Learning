@@ -32,3 +32,25 @@ WPF:
 
 -- Alignment ist responsiv also center = center in allen Bildschirmgrössen, so sollte es auch sein (Responsive)
 
+- Code Behind:
+-- Databinding --> Später im Turtorial
+-- Name accesing --> Anwendung von Code über Namensgebung
+
+- Window Content Info
+-- Only one content bzw. not 2 x <Text … />
+--- use of <Grid> or other container
+-- Grids layout: <TextBlock Text="Hello World" /> --Same as--> <TextBlock>
+								   <TextBlock.Text>
+									Hello World
+							           </TextBlock.Text>
+							        </TextBlock>
+--- Rows and Colums (0-...)
+--- das zweite definierte Objekt überschreibt das erste.
+
+Workflow:
+1. Arbeitsauftrag verstehen
+2. Grid Layout erstellen
+3. Datei Struktur zurecht legen (Ordnerstruktur) ---> Modularität
+4. Visuel designe
+5. C# behind de code
+

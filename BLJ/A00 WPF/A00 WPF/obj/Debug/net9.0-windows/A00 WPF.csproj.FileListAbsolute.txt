@@ -1,0 +1,21 @@
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\bin\Debug\net9.0-windows\A00 WPF.exe
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\bin\Debug\net9.0-windows\A00 WPF.deps.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\bin\Debug\net9.0-windows\A00 WPF.runtimeconfig.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\bin\Debug\net9.0-windows\A00 WPF.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\bin\Debug\net9.0-windows\A00 WPF.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF_MarkupCompile.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF_MarkupCompile.lref
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.g.resources
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.AssemblyInfo.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.sourcelink.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\refint\A00 WPF.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\A00 WPF.genruntimeconfig.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A00 WPF\A00 WPF\obj\Debug\net9.0-windows\ref\A00 WPF.dll
