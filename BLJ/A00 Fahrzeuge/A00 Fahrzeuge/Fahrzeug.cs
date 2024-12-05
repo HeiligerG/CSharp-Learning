@@ -1,6 +1,6 @@
 namespace A00_Fahrzeuge;
 
-internal abstract class Fahrzeug 
+internal abstract class Fahrzeug
 {
     internal string Color { get; }
     internal string Brand { get; }

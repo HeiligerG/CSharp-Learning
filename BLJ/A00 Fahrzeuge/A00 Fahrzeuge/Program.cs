@@ -15,5 +15,12 @@ class Program
         car.Move();
         motorcycle.Move();
         mountainbike.Move();
+        
+        motorcycle.startEngine();
+        car.startEngine();
+        motorcycle.startEngine();
+        car.startEngine();
+        motorcycle.stopEngine();
+        car.stopEngine();
     }
 }
