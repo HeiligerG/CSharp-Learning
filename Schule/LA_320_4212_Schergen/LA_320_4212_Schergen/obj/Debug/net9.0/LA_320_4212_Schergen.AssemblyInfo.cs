@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LA_320_4212_Schergen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ee2f231908cac68df9b15d1319a50aed2d5e721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b13d9f5e73d6d7e55a7665c98dcab35c1c460946")]
 [assembly: System.Reflection.AssemblyProductAttribute("LA_320_4212_Schergen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LA_320_4212_Schergen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
