@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj": {}
+    "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj": {
+    "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
+        "projectUniqueName": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
         "projectName": "LA_320_4212_Schergen",
-        "projectPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
+        "projectPath": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\LA_320_4212_Schergen.csproj",
         "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gianl\\OneDrive\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\obj\\",
+        "outputPath": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\LA_320_4212_Schergen\\LA_320_4212_Schergen\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

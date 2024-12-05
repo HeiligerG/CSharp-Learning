@@ -5,8 +5,16 @@ internal abstract class Scherge
     internal string Name { get; init; }
     protected int _schaden;
     protected int _hitpoints;
-    public bool IstBesiegt => _hitpoints <= 0;
-
+    
+     public bool IstBesiegt => _hitpoints <= 0;
+    
+    /*
+    public bool IstBesiegt
+    {
+        get { return _hitpoints > 0 ? false : true ; }
+    }
+    */
+    
     protected Scherge(string name, int schaden, int hitpoints)
     {
         Name = name;

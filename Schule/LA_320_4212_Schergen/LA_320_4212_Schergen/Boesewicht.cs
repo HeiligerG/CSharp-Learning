@@ -5,6 +5,11 @@ class Boesewicht
     private List<Scherge> Schergen = new ();
     public Geheimagent Erzfeind { get; set; }
     public string Name { get; init; }
+    
+    /*
+    public List<Scherge> Schergen { get; }
+    */
+    
     public List<Scherge> _schergen => Schergen;
 
     public Boesewicht(string name)

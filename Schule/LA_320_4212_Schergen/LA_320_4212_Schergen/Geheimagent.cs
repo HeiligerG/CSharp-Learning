@@ -12,14 +12,15 @@ namespace LA_320_4212_Schergen
         private int _schaden = 3;
         private int _hitpoints = 20;
         
-        public bool IstAusserGefecht => _hitpoints <= 0;
-        
         /*
+        public bool IstAusserGefecht => _hitpoints <= 0;
+            */
+        
          public bool IstAusserGefecht
         {
             get { return _hitpoints > 0 ? false : true ; }
         }
-        */
+ 
 
         public int Schaden { get { return _schaden; } }
 

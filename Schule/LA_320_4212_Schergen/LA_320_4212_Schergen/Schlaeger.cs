@@ -11,6 +11,9 @@ internal class Schlaeger : Scherge
             
         while (!IstBesiegt)
         {
+            /*
+            Console.WriteLine($"Attack {++angriffNummer}");
+            */
             Console.WriteLine($"\nAngriff #{angriffNummer++}:");
             geheimagent.KassiereSchaden(_schaden);
             Console.WriteLine($"{Name} fügt {geheimagent.Name} {_schaden} Schaden zu!");
