@@ -4,9 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Car car = new Car("Violet", "VW");
-        Motorcycle motorcycle = new Motorcycle("MontanaBlack", "Rot", "Lambo");
-        Mountainbike mountainbike = new Mountainbike(2, "Rot", "Porsche");
+        Car car = new Car("Violet", "VW", VehicleCondition.Damaged);
+        Motorcycle motorcycle = new Motorcycle("MontanaBlack", "Rot", "Lambo", VehicleCondition.Totaled);
+        Mountainbike mountainbike = new Mountainbike(2, "Rot", "Porsche", VehicleCondition.New);
+        
         
         car.printInfo();
         motorcycle.printInfo();
@@ -22,5 +23,9 @@ class Program
         car.startEngine();
         motorcycle.stopEngine();
         car.stopEngine();
+        
+        car.getZustand();
+        motorcycle.getZustand();
+        mountainbike.getZustand();
     }
 }

@@ -4,7 +4,7 @@ internal class Mountainbike : Fahrzeug
 {
     private int AnzahlRaeder { get; }
 
-    internal Mountainbike(int anzahlRaeder, string color, string brand) : base(color, brand)
+    internal Mountainbike(int anzahlRaeder, string color, string brand, VehicleCondition condition) : base(color, brand, condition)
     {
         this.AnzahlRaeder = anzahlRaeder;
     }
@@ -17,5 +17,10 @@ internal class Mountainbike : Fahrzeug
     internal void Move()
     {
         Console.WriteLine($"Dein {Brand} ist am Fahren!");
+    }
+    
+    internal override void getZustand()
+    {
+        Console.WriteLine($"Dein {Brand} ist {Condition}");
     }
 }

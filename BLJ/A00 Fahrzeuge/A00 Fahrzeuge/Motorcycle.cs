@@ -4,7 +4,7 @@ internal class Motorcycle : Fahrzeug, IMotirizedVehicle
 {
     private string Fahrer { get; }
 
-    internal Motorcycle(string fahrer, string color, string brand) : base(color, brand)
+    internal Motorcycle(string fahrer, string color, string brand, VehicleCondition condition) : base(color, brand, condition)
     {
         this.Fahrer = fahrer;
     }
@@ -43,5 +43,10 @@ internal class Motorcycle : Fahrzeug, IMotirizedVehicle
     internal void Move()
     {
         Console.WriteLine($"Dein {Brand} ist am Fahren!");
+    }
+    
+    internal override void getZustand()
+    {
+        Console.WriteLine($"Dein {Brand} ist {Condition}");
     }
 }
