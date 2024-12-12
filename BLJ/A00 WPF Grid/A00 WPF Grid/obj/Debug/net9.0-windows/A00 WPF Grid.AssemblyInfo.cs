@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A00 WPF Grid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ed699e0a1a2a872fc65672d59a095cff8433717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b2bed3a5717cd71a73913bda42ca12df18b0a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("A00 WPF Grid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A00 WPF Grid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

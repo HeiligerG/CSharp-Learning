@@ -1,6 +1,8 @@
 namespace PJ_Society;
 
-public class SocialClass
+public enum SocialClass
 {
-    
+    RICH,
+    MIDDLE_CLASS,
+    POOR
 }

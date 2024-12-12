@@ -1,18 +1,31 @@
-namespace A01_Rechteck;
-
-internal class Rectangle
+namespace A01_Rechteck
 {
-    public double height;
-    public double with;
-
-    internal Rectangle(double Height, double With)
+    internal class Rectangle
     {
-        this.height = Height;
-        this.with = With;
-    }
+        private double height;
+        private double width;
 
-    internal void berechnenFlaeche()
-    {
-        
+        public double Height 
+        { 
+            get => height;
+            set => height = value;
+        }
+
+        public double Width
+        {
+            get => width;
+            set => width = value;
+        }
+
+        internal Rectangle(double height, double width)
+        {
+            this.height = height;
+            this.width = width;
+        }
+
+        internal double BerechneFlaeche()
+        {
+            return height * width;
+        }
     }
 }

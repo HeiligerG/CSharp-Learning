@@ -1,0 +1,20 @@
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\bin\Debug\net9.0-windows\A04 AutoSim.exe
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\bin\Debug\net9.0-windows\A04 AutoSim.deps.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\bin\Debug\net9.0-windows\A04 AutoSim.runtimeconfig.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\bin\Debug\net9.0-windows\A04 AutoSim.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\bin\Debug\net9.0-windows\A04 AutoSim.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim_MarkupCompile.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.g.resources
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.AssemblyInfo.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.sourcelink.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\refint\A04 AutoSim.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\A04 AutoSim.genruntimeconfig.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\A04 AutoSim\A04 AutoSim\obj\Debug\net9.0-windows\ref\A04 AutoSim.dll

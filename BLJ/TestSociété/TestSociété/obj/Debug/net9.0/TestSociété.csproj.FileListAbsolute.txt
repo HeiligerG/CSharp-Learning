@@ -1,0 +1,15 @@
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\bin\Debug\net9.0\TestSociété.exe
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\bin\Debug\net9.0\TestSociété.deps.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\bin\Debug\net9.0\TestSociété.runtimeconfig.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\bin\Debug\net9.0\TestSociété.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\bin\Debug\net9.0\TestSociété.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.AssemblyInfo.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.sourcelink.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\refint\TestSociété.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\TestSociété.genruntimeconfig.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\TestSociété\TestSociété\obj\Debug\net9.0\ref\TestSociété.dll

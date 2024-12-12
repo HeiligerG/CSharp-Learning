@@ -10,44 +10,53 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.IO;
 using System.Windows.Markup;
-
 using System.Windows;
 
-namespace A01_Rechteck
+namespace A01_Rechteck;
+
+public partial class MainWindow : Window
 {
-    public partial class MainWindow : Window
+    public MainWindow()
     {
-        public MainWindow()
+        InitializeComponent();
+        
+        Loaded += MainWindow_Loaded;
+    }
+
+    private void MainWindow_Loaded(object sender, RoutedEventArgs e)
+    {
+        var myGrid = (Grid)FindResource("MyGridTemplate");
+    
+        var btnBerechnen = (Button)myGrid.FindName("btnBerechnen");
+        var btnBeenden = (Button)myGrid.FindName("btnBeenden");
+
+        btnBerechnen.Click += BtnBerechnen_Click;
+        btnBeenden.Click += BtnBeenden_Click;
+    }
+
+    private void BtnBerechnen_Click(object sender, RoutedEventArgs e)
+    {
+        var myGrid = (Grid)FindResource("MyGridTemplate");
+    
+        var inputBreite = (TextBox)myGrid.FindName("inputBreite");
+        var inputHoehe = (TextBox)myGrid.FindName("inputHoehe");
+        var outputFlaeche = (TextBox)myGrid.FindName("outputFlaeche");
+
+        if (double.TryParse(inputBreite?.Text, out double breite) &&
+            double.TryParse(inputHoehe?.Text, out double hoehe))
         {
-            InitializeComponent();
-
-            Button btnBerechnen = (Button)FindName("btnBerechnen");
-            Button btnBeenden = (Button)FindName("btnBeenden");
-
-            if (btnBerechnen != null)
-                btnBerechnen.Click += BtnBerechnen_Click;
-
-            if (btnBeenden != null)
-                btnBeenden.Click += BtnBeenden_Click;
+            var rechteck = new Rectangle(hoehe, breite);
+            double flaeche = rechteck.BerechneFlaeche();
+            outputFlaeche.Text = flaeche.ToString();
         }
-
-        private void BtnBerechnen_Click(object sender, RoutedEventArgs e)
+        else
         {
-            if (double.TryParse(((TextBox)FindName("inputBreite"))?.Text, out double breite) &&
-                double.TryParse(((TextBox)FindName("inputHoehe"))?.Text, out double hoehe))
-            {
-                double flaeche = breite * hoehe;
-                ((TextBox)FindName("outputFlaeche")).Text = flaeche.ToString();
-            }
-            else
-            {
-                MessageBox.Show("Bitte gültige Zahlen eingeben!");
-            }
+            MessageBox.Show("Bitte gültige Zahlen eingeben!");
         }
+    }
 
-        private void BtnBeenden_Click(object sender, RoutedEventArgs e)
-        {
-            Application.Current.Shutdown();
-        }
+    private void BtnBeenden_Click(object sender, RoutedEventArgs e)
+    {
+        Application.Current.Shutdown();
     }
 }
