@@ -1,6 +1,3 @@
-using System.Net.Sockets;
-using System.Security.AccessControl;
-
 namespace PJ_SocietyTag;
 
 public class World
@@ -8,17 +5,19 @@ public class World
     public List<Person> Population { get; private set; }
     public DateTime CurrentDate { get; private set; }
     public double CatastropheProbability { get; private set; }
-    public Random Random { get; private set; }
+    private readonly Random _random;
     public Economy Economy { get; private set; }
     public List<NaturalDisaster> ActiveDisasters { get; private set; }
     public SimulationStats DailyStats { get; private set; }
+    
+    private const int MAX_POPULATION = 1000000;
 
     public World(int initialPopulation)
     {
         Population = new List<Person>();
         CurrentDate = new DateTime(2024, 1, 1);
         CatastropheProbability = 0.001;
-        Random = new Random();
+        _random = new Random();
         Economy = new Economy();
         ActiveDisasters = new List<NaturalDisaster>();
         DailyStats = new SimulationStats();
@@ -31,88 +30,118 @@ public class World
         DailyStats.Reset();
         
         Economy.UpdateMarket();
-        HandleBirthsAndDeaths();
-        HandleNaturalDisaster();
+        HandleNaturalDisasters();
+        UpdatePopulation();
         
+        foreach (var disaster in ActiveDisasters.ToList())
+        {
+            disaster.Update();
+            if (!disaster.IsActive)
+            {
+                ActiveDisasters.Remove(disaster);
+            }
+            else
+            {
+                disaster.ApplyEconomicImpact(Economy);
+            }
+        }
+        
+        Thread.Sleep(1000);
+    }
+
+    private void HandleNaturalDisasters()
+    {
+        if (_random.NextDouble() < CatastropheProbability)
+        {
+            string[] disasterTypes = { "Drought", "Flood", "Earthquake", "Hurricane" };
+            string type = disasterTypes[_random.Next(disasterTypes.Length)];
+            double severity = _random.NextDouble();
+
+            var disaster = new NaturalDisaster(type, severity, 0.01 * severity, _random.Next(1, 4));
+            ActiveDisasters.Add(disaster);
+
+            int casualties = disaster.CalculateCasualties(Population.Count);
+            for (int i = 0; i < casualties && Population.Count > 0; i++)
+            {
+                int index = _random.Next(Population.Count);
+                Population[index].Die();
+            }
+        }
+    }
+
+    private void UpdatePopulation()
+    {
+        var newborns = new List<Person>();
+        foreach (var person in Population.Where(p => p.IsAlive && p.Age >= 18 && p.Age <= 45))
+        {
+            if (Population.Count >= MAX_POPULATION) break;
+            
+            if (person.TryReproduction())
+            {
+                Person newborn = person.SocialClass switch
+                {
+                    SocialClass.RICH => new Rich($"Child_{_random.Next()}", 0, 50000),
+                    SocialClass.MIDDLE_CLASS => new MiddleClass($"Child_{_random.Next()}", 0, 15000),
+                    SocialClass.POOR => new Poor($"Child_{_random.Next()}", 0, 1000),
+                    _ => throw new ArgumentException("Invalid social class")
+                };
+                
+                newborns.Add(newborn);
+                DailyStats.Births++;
+            }
+        }
+        Population.AddRange(newborns);
+
         foreach (var person in Population.ToList())
         {
             var oldClass = person.SocialClass;
-            person.Update();
+            person.Update(Economy);
 
             if (!person.IsAlive)
             {
                 DailyStats.Deaths++;
+                Population.Remove(person);
             }
-
-            if (person.SocialClass != oldClass)
+            else if (person.SocialClass != oldClass)
             {
                 DailyStats.AddClassChange(oldClass, person.SocialClass);
             }
         }
-
-        Population.RemoveAll(p => !p.IsAlive);
-        Thread.Sleep(100);
     }
 
-    private void HandleBirthsAndDeaths()
-    {
-        List<Person> newBorns = new List<Person>();
-        foreach (var person in Population.Where(p => p.Age >= 18 && p.Age <= 45))
-        {
-            if (person.TryReproduction())
-            {
-                switch (person.SocialClass)
-                {
-                    case SocialClass.RICH:
-                        newBorns.Add(new Rich($"Child{Random.Next()}", 0, 50000));
-                        break;
-                    case SocialClass.MIDDLE_CLASS:
-                        newBorns.Add(new MiddleClass($"Child{Random.Next()}", 0, 15000));
-                        break;
-                    case SocialClass.POOR:
-                        newBorns.Add(new Poor($"Child{Random.Next()}", 0, 1000));
-                        break;
-                }
-            }
-        }
-        
- 
-    }
     private void InitializePopulation(int count)
     {
         for (int i = 0; i < count; i++)
-    {
-        double classDeterminator = Random.NextDouble();
-        if (classDeterminator < 0.05)
-            Population.Add(new Rich($"Person{i}", Random.Next(18, 80), 100000 + Random.Next(50000, 1000000)));
-        else if (classDeterminator < 0.65)
-            Population.Add(new MiddleClass($"Person{i}", Random.Next(18, 80), 30000 + Random.Next(20000, 70000)));
-        else
-            Population.Add(new Poor($"Person{i}", Random.Next(18, 80), Random.Next(5000, 25000)));
-    }
-}
-
-    private void HandleNaturalDisaster()
-    {
-        if (Random.NextDouble() < CatastropheProbability)
         {
-            string[] disasterTypes = { "Drought", "Flood", "Earthquake", "Hurricane" };
-            string type = disasterTypes[Random.Next(disasterTypes.Length)];
-            double severity = Random.NextDouble();
+            double classDeterminator = _random.NextDouble();
+            Person person;
 
-            var disaster = new NaturalDisaster(type, severity, 0.01 * severity, Random.Next(1, 4));
-            ActiveDisasters.Add(disaster);
-
-            int casualities = disaster.CalculateCasualities(Population);
-            for (int i = 0; i < casualities; i++)
+            if (classDeterminator < 0.05)
             {
-                if (Population.Count > 0)
-                {
-                    int index = Random.Next(Population.Count);
-                    Population.RemoveAll(index);
-                }
+                person = new Rich(
+                    $"Person_{i}",
+                    _random.Next(20, 50),
+                    100000 + _random.Next(50000, 1000000)
+                );
             }
-            disaster.ApplyEconomicImpact(Economy);
+            else if (classDeterminator < 0.65)
+            {
+                person = new MiddleClass(
+                    $"Person_{i}",
+                    _random.Next(20, 50),
+                    30000 + _random.Next(20000, 70000)
+                );
+            }
+            else
+            {
+                person = new Poor(
+                    $"Person_{i}",
+                    _random.Next(20, 50),
+                    _random.Next(5000, 25000)
+                );
+            }
+            
+            Population.Add(person);
         }
     }
 }

@@ -4,6 +4,9 @@ namespace PJ_SocietyTag;
 
 public abstract class Person
 {
+    public event Action<Person, SocialClass> OnClassChange;
+    public event Action<Person> OnDeath;
+    
     public string Name { get; protected set; }
     public int Age { get; protected set; }
     public double Money { get; protected set; }
@@ -25,15 +28,16 @@ public abstract class Person
     protected void CalculateDeathProbability()
     {
         Age++;
-        double baseProbability = Age > 60 ? (Age - 60) * 0.01 : 0;
-        double moneyFactor = Math.Max(0, (10000 - Money) / 100000);
-        double totalProbability = Math.Max(1, baseProbability + moneyFactor * 0.1);
-        
+        double baseProbability = Age > 60 ? 1 - Math.Exp(-(Age - 60) * 0.05) : 0;
+        double moneyFactor = Math.Clamp((10000 - Math.Max(0, Money)) / 100000, 0, 0.5);
+        double totalProbability = Math.Min(1, baseProbability + moneyFactor * 0.1);
+
         if (_random.NextDouble() < totalProbability)
         {
             Die();
         }
     }
+
 
     public virtual void Die()
     {

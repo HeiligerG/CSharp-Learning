@@ -3,9 +3,9 @@ namespace PJ_SocietyTag;
 public class Economy
 {
     public double Inflation { get; private set; }
-    public double MarketVolatility { get; private set; }
+    public double MarketVolatility { get; set; }
     public double BaseIncome { get; private set; }
-    public double MarketTrend { get; private set; }
+    public double MarketTrend { get; set; }
 
     private readonly Random _random;
     private const double MAX_INFLATION = 0.15;

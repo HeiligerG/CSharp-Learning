@@ -1,13 +1,13 @@
-namespace PJ_SocietyTag;
+using PJ_SocietyTag;
 
 public class Rich : Person
 {
     public double LuxuryTaxRate { get; private set; }
     public double InvestmentRate { get; private set; }
     public List<Investment> Investments { get; private set; }
-
-    private const int MAX_INVESTMENTS = 10;
     
+    private const int MAX_INVESTMENTS = 10;
+
     public Rich(string name, int age, double money) : base(name, age, money)
     {
         SocialClass = SocialClass.RICH;
@@ -26,21 +26,22 @@ public class Rich : Person
         AdjustMoney(economy);
         CheckDowngrade();
     }
-
-    public void HandleInvestments(Economy economy)
+    
+    private void HandleInvestments(Economy economy)
     {
-        for (int i = Investments.Count -1; i < 0; i--)
+        var currentInvestments = Investments.ToList();
+        
+        foreach (var investment in currentInvestments)
         {
-            var investment = Investments[i];
             double returns = investment.CalculateReturn(economy);
             Money += returns;
-
+            
             if (returns < 0)
             {
-                Investments.RemoveAt(i);
+                Investments.Remove(investment);
             }
         }
-
+        
         if (Investments.Count < MAX_INVESTMENTS && Money > 100000)
         {
             double investmentAmount = Money * InvestmentRate;
@@ -55,7 +56,8 @@ public class Rich : Person
                 Money -= investmentAmount;
             }
         }
-    } 
+    }
+    
     private void PayLuxuryTax()
     {
         double tax = Money * LuxuryTaxRate;

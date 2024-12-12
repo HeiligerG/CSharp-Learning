@@ -1,0 +1,15 @@
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\bin\Debug\net9.0\PJ-SocietyTag.exe
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\bin\Debug\net9.0\PJ-SocietyTag.deps.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\bin\Debug\net9.0\PJ-SocietyTag.runtimeconfig.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\bin\Debug\net9.0\PJ-SocietyTag.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\bin\Debug\net9.0\PJ-SocietyTag.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.AssemblyInfoInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.AssemblyInfo.cs
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.csproj.CoreCompileInputs.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.sourcelink.json
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\refint\PJ-SocietyTag.dll
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.pdb
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\PJ-SocietyTag.genruntimeconfig.cache
+C:\Users\ÜK-G7\Desktop\Basislehrjahr\CSharp-Learning\BLJ\PJ-SocietyTag\PJ-SocietyTag\obj\Debug\net9.0\ref\PJ-SocietyTag.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PJ-SocietyTag")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b2bed3a5717cd71a73913bda42ca12df18b0a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c52adb67417fff85b750fd09e6cc607fe2895e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PJ-SocietyTag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PJ-SocietyTag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
