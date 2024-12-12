@@ -40,10 +40,8 @@
                 Console.Clear();
                 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-                // Anzeige mit dynamischem Titel basierend auf Simulation
                 DrawFrame($"Datum: {world.CurrentDate:dd.MM.yyyy}", width);
 
-                // Hauptinformationen
                 DrawLine('╔', '═', '╗', width);
                 Console.Write("║ ");
                 Console.ForegroundColor = ConsoleColor.Yellow;
@@ -64,7 +62,6 @@
                 Console.WriteLine("");
                 DrawLine('╚', '═', '╝', width);
 
-                // Klassenverteilung
                 DrawLine('╔', '═', '╗', width);
                 Console.Write("║ ");
                 Console.ForegroundColor = ConsoleColor.Cyan;
@@ -92,7 +89,6 @@
                 Console.WriteLine($"{poorCount,6:N0} ({(double)poorCount / world.Population.Count:P1})".PadRight(width - 14) + "");
                 DrawLine('╚', '═', '╝', width);
 
-                // Tagesstatistiken
                 DrawLine('╔', '═', '╗', width);
                 Console.Write("║ ");
                 Console.ForegroundColor = ConsoleColor.Green;
@@ -130,7 +126,6 @@
                 Console.WriteLine($"{world.DailyStats.DowngradesToMiddle,6}".PadRight(25) + "");
                 DrawLine('╚', '═', '╝', width);
 
-                // Katastrophen-Anzeige
                 if (world.ActiveDisasters.Any())
                 {
                     DrawLine('╔', '═', '╗', width);
@@ -151,7 +146,6 @@
                     DrawLine('╚', '═', '╝', width);
                 }
 
-                // Hilfetext
                 Console.WriteLine();
                 Console.ForegroundColor = ConsoleColor.DarkGray;
                 Console.WriteLine("Drücken Sie [ESC] zum Beenden oder eine andere Taste zum Pausieren");
@@ -163,7 +157,7 @@
                     if (key.Key == ConsoleKey.Escape) break;
                 }
 
-                Thread.Sleep(100); // Kleine Verzögerung für bessere Lesbarkeit
+                Thread.Sleep(100);
             }
         }
     }
