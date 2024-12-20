@@ -1,0 +1,15 @@
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\bin\Debug\net8.0\GalaxieExplorer.exe
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\bin\Debug\net8.0\GalaxieExplorer.deps.json
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\bin\Debug\net8.0\GalaxieExplorer.runtimeconfig.json
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\bin\Debug\net8.0\GalaxieExplorer.dll
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\bin\Debug\net8.0\GalaxieExplorer.pdb
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.AssemblyInfoInputs.cache
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.AssemblyInfo.cs
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.csproj.CoreCompileInputs.cache
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.sourcelink.json
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.dll
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\refint\GalaxieExplorer.dll
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.pdb
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\GalaxieExplorer.genruntimeconfig.cache
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\GalaxieExplorer\obj\Debug\net8.0\ref\GalaxieExplorer.dll

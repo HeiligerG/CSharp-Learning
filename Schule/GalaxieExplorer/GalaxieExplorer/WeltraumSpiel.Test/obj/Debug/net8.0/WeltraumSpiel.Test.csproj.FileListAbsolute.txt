@@ -1,0 +1,7 @@
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\WeltraumSpiel.Test\bin\Debug\net8.0\CoverletSourceRootsMapping_WeltraumSpiel.Test
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\WeltraumSpiel.Test\obj\Debug\net8.0\WeltraumSpiel.Test.csproj.AssemblyReference.cache
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\WeltraumSpiel.Test\obj\Debug\net8.0\WeltraumSpiel.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\WeltraumSpiel.Test\obj\Debug\net8.0\WeltraumSpiel.Test.AssemblyInfoInputs.cache
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\WeltraumSpiel.Test\obj\Debug\net8.0\WeltraumSpiel.Test.AssemblyInfo.cs
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\WeltraumSpiel.Test\obj\Debug\net8.0\WeltraumSpiel.Test.csproj.CoreCompileInputs.cache
+C:\Users\gggig\Desktop\BBZW Sursee\CSharp-Learning\Schule\GalaxieExplorer\GalaxieExplorer\WeltraumSpiel.Test\obj\Debug\net8.0\WeltraumSpiel.Test.sourcelink.json
