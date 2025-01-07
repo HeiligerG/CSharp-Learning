@@ -1,4 +1,4 @@
-abstract class Raumschiff
+public abstract class Raumschiff
 {
     public string Name { get; protected set; }
     public int Treibstoff { get; set; }

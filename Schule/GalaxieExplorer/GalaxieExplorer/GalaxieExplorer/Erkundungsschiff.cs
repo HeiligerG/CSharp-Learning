@@ -1,4 +1,4 @@
-class Erkundungsschiff : Raumschiff
+public class Erkundungsschiff : Raumschiff
 {
     public void Scannen(Planet planet)
     {

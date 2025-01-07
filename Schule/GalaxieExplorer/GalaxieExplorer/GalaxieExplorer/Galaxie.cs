@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-class Galaxie
+public class Galaxie
 {
     public string Name { get; private set; }
     public List<Stern> Sterne { get; private set; }

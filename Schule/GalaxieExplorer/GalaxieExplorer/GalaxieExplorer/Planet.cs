@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-class Planet : Himmelskoerper
+public class Planet : Himmelskoerper
 {
     public Dictionary<string, int> Ressourcen { get; private set; }
 

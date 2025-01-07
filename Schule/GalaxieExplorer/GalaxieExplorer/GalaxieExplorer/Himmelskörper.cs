@@ -1,4 +1,4 @@
-abstract class Himmelskoerper
+public abstract class Himmelskoerper
 {
     public string Name { get; protected set; }
     public double Masse { get; protected set; }

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-class Stern : Himmelskoerper
+public class Stern : Himmelskoerper
 {
     public List<Planet> Planeten { get; private set; }
 

@@ -1,13 +1,15 @@
 using System;
 using System.Collections.Generic;
 
-class Spieler
+public class Spieler
 {
     private Raumschiff _schiff;
     private List<Galaxie> _entdeckteGalaxien;
     private Dictionary<string, int> _ressourcen;
     private int _kredite;
     private Stern _aktuellerStern;
+    
+    public int Kredite => _kredite;
 
     public Spieler(string name)
     {

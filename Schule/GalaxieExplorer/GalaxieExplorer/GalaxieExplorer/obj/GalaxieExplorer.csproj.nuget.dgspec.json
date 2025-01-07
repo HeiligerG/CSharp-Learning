@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gggig\\Desktop\\BBZW Sursee\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {}
+    "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gggig\\Desktop\\BBZW Sursee\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {
+    "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gggig\\Desktop\\BBZW Sursee\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
+        "projectUniqueName": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
         "projectName": "GalaxieExplorer",
-        "projectPath": "C:\\Users\\gggig\\Desktop\\BBZW Sursee\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
-        "packagesPath": "C:\\Users\\gggig\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gggig\\Desktop\\BBZW Sursee\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\obj\\",
+        "projectPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
+        "packagesPath": "C:\\Users\\ÜK-G7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\gggig\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ÜK-G7\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\gggig\\.dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ÜK-G7\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

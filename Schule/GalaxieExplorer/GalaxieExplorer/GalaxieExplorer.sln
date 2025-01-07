@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxieExplorer", "GalaxieExplorer\GalaxieExplorer.csproj", "{CCA94007-2BBA-47DE-AB16-64B28FF44A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeltraumSpiel.Test", "WeltraumSpiel.Test\WeltraumSpiel.Test.csproj", "{9C5C1C09-212E-48A5-B309-7861F551488A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxieExplorer.Tests", "GalaxieExplorer.Tests\GalaxieExplorer.Tests.csproj", "{1F08FC4C-4484-4D37-8CC9-6AD43734075E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{CCA94007-2BBA-47DE-AB16-64B28FF44A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA94007-2BBA-47DE-AB16-64B28FF44A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCA94007-2BBA-47DE-AB16-64B28FF44A6A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9C5C1C09-212E-48A5-B309-7861F551488A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9C5C1C09-212E-48A5-B309-7861F551488A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9C5C1C09-212E-48A5-B309-7861F551488A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9C5C1C09-212E-48A5-B309-7861F551488A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F08FC4C-4484-4D37-8CC9-6AD43734075E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F08FC4C-4484-4D37-8CC9-6AD43734075E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F08FC4C-4484-4D37-8CC9-6AD43734075E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F08FC4C-4484-4D37-8CC9-6AD43734075E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
