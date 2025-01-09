@@ -15,7 +15,7 @@ public class Spieler
     {
         _schiff = new Erkundungsschiff(name + "s Schiff", 100, 5);
         _entdeckteGalaxien = new List<Galaxie>();
-        _entdeckteGalaxien.Add(new Galaxie("Milchstraße"));
+        _entdeckteGalaxien.Add(new Galaxie("Milchstrasse"));
         _ressourcen = new Dictionary<string, int>();
         _kredite = 1000;
     }
