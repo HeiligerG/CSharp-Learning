@@ -1,4 +1,4 @@
-Ein praktisches Beispiel mit einem Inventarsystem für ein Handwerksspiel entwickelt. Hier verwalten wir verschiedene Materialien und ihre Mengen:
+Ein praktisches Beispiel mit einem Inventarsystem für ein Handwerksspiel erklärt. Hier verwalten wir verschiedene Materialien und ihre Mengen:
 
 ```csharp
 public class Handwerker
