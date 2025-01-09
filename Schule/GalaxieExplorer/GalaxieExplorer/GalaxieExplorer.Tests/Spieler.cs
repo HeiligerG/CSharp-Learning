@@ -8,33 +8,27 @@ public class SpielerTests
     [SetUp]
     public void Setup()
     {
-        // Vor jedem Test wird ein neuer Spieler erstellt
         _spieler = new Spieler("TestSpieler");
     }
 
     [Test]
     public void NeuerSpieler_HatKorrektesStartkapital()
     {
-        // Arrange (wird bereits im Setup gemacht)
+        _spieler.ZeigeInventar();
 
-        // Act
-        _spieler.ZeigeInventar(); // Diese Methode müssen wir anpassen, um die Kredite zurückzugeben
-
-        // Assert
         Assert.That(_spieler.Kredite, Is.EqualTo(1000));
     }
 
     [Test]
     public void NeuerSpieler_HatEineGalaxie()
     {
-        // Act
         var sterne = _spieler.HoleVerfuegbareSterne();
 
-        // Assert
         Assert.That(sterne, Is.Not.Empty);
         Assert.That(sterne.Count, Is.GreaterThan(0));
     }
-
+    
+    // Diese Methode wurde von der KI erstellet, da ich keine Ahnung von Unit Testing hatte.
     [Test]
     public void ReparierSchiff_MitGenugKrediten_ReduziertKredite()
     {

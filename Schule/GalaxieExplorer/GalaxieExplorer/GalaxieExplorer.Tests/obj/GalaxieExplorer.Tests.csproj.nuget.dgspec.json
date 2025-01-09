@@ -1,34 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj": {}
+    "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj": {
+    "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj",
         "projectName": "GalaxieExplorer.Tests",
-        "projectPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj",
-        "packagesPath": "C:\\Users\\ÜK-G7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\obj\\",
+        "projectPath": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\GalaxieExplorer.Tests.csproj",
+        "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\ÜK-G7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gianl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {
-                "projectPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj"
+              "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {
+                "projectPath": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj"
               }
             }
           }
@@ -85,29 +82,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\ÜK-G7\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {
+    "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
+        "projectUniqueName": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
         "projectName": "GalaxieExplorer",
-        "projectPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
-        "packagesPath": "C:\\Users\\ÜK-G7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ÜK-G7\\Desktop\\Basislehrjahr\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\obj\\",
+        "projectPath": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer.csproj",
+        "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gianl\\Desktop\\CSharp-Learning\\Schule\\GalaxieExplorer\\GalaxieExplorer\\GalaxieExplorer\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\ÜK-G7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gianl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
@@ -144,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\ÜK-G7\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
