@@ -1,6 +1,6 @@
 # Galaxie Explorer Projekt
 
-**Repository Link:** [GitHub Repository](https://github.com/HeiligerG/CSharp-Learning/tree/master/Schule/GalaxieExplorer/res)
+**Repository Link:** [GitHub Repository](https://github.com/HeiligerG/CSharp-Learning/tree/master/Schule/GalaxieExplorer)
 
 ## Projektbeschreibung
 
