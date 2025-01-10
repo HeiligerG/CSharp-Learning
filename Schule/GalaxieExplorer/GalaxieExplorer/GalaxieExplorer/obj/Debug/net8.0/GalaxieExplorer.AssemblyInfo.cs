@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GalaxieExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8758134c7b818ea95d183d5781f5eb871ca3010b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c157450df1d408092e34aa50e32e4053e8220b5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GalaxieExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GalaxieExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
